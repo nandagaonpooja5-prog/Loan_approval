@@ -136,8 +136,5 @@ This project demonstrates the implementation of a Machine Learning-based Loan Ap
 ## Author
 - Pooja Nandagaon
 
-## GitHub
-- Add your GitHub profile link here
-
 ## LinkedIn
-- Add your LinkedIn profile link here
+- linkedin.com/in/poojanandagaon
